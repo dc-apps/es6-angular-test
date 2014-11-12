@@ -1,0 +1,1 @@
+Testing out ES6 functionality with Angular. Based on Angular-seed (no gulp/grunt).
